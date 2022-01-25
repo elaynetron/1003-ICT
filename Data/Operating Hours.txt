@@ -1,0 +1,15 @@
+Northspine Canteen Directory
+
+Store:	Mini Wok	Vegetarian Food	    Cantonese Roast Duck	Malay BBQ
+Mon_Fri	        7:00 AM	        8:30 PM
+Sat	        8:00 AM	        2:30 PM
+Sun	        Not Operating
+Breakfast	7:00 AM	        11:29 AM
+Lunch	        11:30 AM	3:29 PM
+Dinner	        3:30 PM	        8:30 PM
+
+Store:	KFC
+Mon_Fri	        7:30 AM	        10:00 PM
+Sat_Sun	        11:00 AM	8:00 PM
+Breakfast	7:30 AM	        10:59 AM
+Lunch_Dinner	11:00 AM	10:00 PM

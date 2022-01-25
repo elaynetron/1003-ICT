@@ -1,0 +1,42 @@
+Northspine Canteen Directory
+
+Store:	Mini Wok	        4 mins	   Price	Time	        Day
+Sambal Chicken Fried Rice	           $3.80	All_Day	        Mon_Sat
+Salted Fish Fried Rice	                   $3.80	All_Day	        Mon_Sat
+Fried Rice with Prawn	                   $3.80	All_Day	        Mon_Sat
+Fried Rice with Fillet	                   $3.80	All_Day	        Mon_Sat
+Chicken Fried Rice	                   $3.80	All_Day	        Mon_Sat
+
+Store:	Vegetarian Food	        2 mins	   Price	Time	        Day
+Loh Mee	                                   $3.00	All_Day	        Mon
+Laksa	                                   $3.00	All_Day	        Tue
+Mee Rubus	                           $2.80	All_Day	        Wed
+Kway Chap	                           $3.00	All_Day	        Thu
+Prawn Noodle Soup	                   $3.00	All_Day	        Fri
+Vegetarian Bee Hoon	                   $2.80	Breakfast	Mon_Sat
+
+Store:	Cantonese Roast Duck	3 mins	   Price	Time	        Day
+Roasted Duck Rice	                   $3.30	All_Day	        Mon_Sat
+Char Siew Rice	                           $2.80	All_Day	        Mon_Sat
+Roasted Meat Rice	                   $2.80	All_Day	        Mon_Sat
+Roasted Duck Noodle	                   $3.30	Dinner	        Mon_Sat
+Char Siew Roasted Meat Noodle	           $4.00	Dinner	        Mon_Sat
+Lotus Root Pork Ribs Soup	           $3.00	Lunch_Dinner	Mon_Sat
+
+Store:	Malay BBQ	        4 mins	   Price	Time	        Day
+Mee Siam	                           $2.80	All_Day	        Mon_Sat
+Mee Soto	                           $2.80	All_Day	        Mon_Sat
+Nasi Lemak	                           $3.00	All_Day	        Mon_Sat
+Lontong	                                   $2.80	All_Day	        Mon_Sat
+Ayam Penyet	                           $4.00	All_Day	        Mon_Sat
+
+Store:	KFC	                5 mins	   Price	Time	        Day
+2 pcs Fried Chicken	                   $8.15	Lunch_Dinner	Mon_Sun
+3 pcs Fried Chicken	                   $10.15	Lunch_Dinner	Mon_Sun
+Original Bowl with Drink	           $5.00	Lunch_Dinner	Mon_Sun
+Popcorn Snackers	                   $4.20	Lunch_Dinner	Mon_Sun
+Zinger Meal	                           $7.25	Lunch_Dinner	Mon_Sun
+Brekkie Meal	                           $4.55	Breakfast	Mon_Sun
+Riser Meal	                           $5.25	Breakfast	Mon_Sun
+Original Recipe Twister Meal	           $5.65	Breakfast	Mon_Sun
+American Twist	                           $5.65	Breakfast	Mon_Sun
